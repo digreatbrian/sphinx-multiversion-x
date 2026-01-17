@@ -348,8 +348,8 @@ def main(argv=None):
                     *defines,
                     "-D",
                     "smv_current_version={}".format(version_name),
-                    "-c",
-                    confdir_absolute,
+                    #"-c", The commented lines may be causing issues.
+                    #confdir_absolute,
                     data["sourcedir"],
                     data["outputdir"],
                     *args.filenames,
