@@ -3,7 +3,7 @@
 **Supports:**
 
 ```py
-sphinx<= 8.2.3
+sphinx<=8.2.3
 ```
 
 Sphinx extension for building self-hosted versioned docs.
