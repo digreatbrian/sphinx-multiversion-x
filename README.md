@@ -1,6 +1,6 @@
-# Sphinx-multiversion fork
+# Sphinx Multiversion fork
 
-**Supports: **
+**Supports:**
 
 ```py
 sphinx<= 8.2.3
